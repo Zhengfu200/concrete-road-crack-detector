@@ -1,0 +1,61 @@
+{
+  "name": "head-single",
+  "tta": null,
+  "report": "PROJECT_ROOT\\reports\\optimization-20261027\\head-single\\test\\report.json",
+  "thresholds": "PROJECT_ROOT\\reports\\optimization-20261027\\head-single\\val\\val.thresholds.json",
+  "metrics": {
+    "tp": 83,
+    "fp": 37,
+    "fn": 7,
+    "precision": 0.6916666666666667,
+    "recall": 0.9222222222222223,
+    "f1": 0.7904761904761906
+  },
+  "average_precision": {
+    "map50": 0.8295879477288457,
+    "map50_95": 0.5465188278255833
+  },
+  "calibration": {
+    "joint_target_feasible": true,
+    "selection_policy": "joint_precision80_recall90",
+    "selected": {
+      "threshold": 0.03675317019224167,
+      "metrics": {
+        "0": {
+          "tp": 156,
+          "fp": 38,
+          "fn": 13,
+          "precision": 0.8041237113402062,
+          "recall": 0.9230769230769231,
+          "f1": 0.859504132231405
+        }
+      }
+    },
+    "recall_at_precision80": {
+      "threshold": 0.03675317019224167,
+      "metrics": {
+        "0": {
+          "tp": 156,
+          "fp": 38,
+          "fn": 13,
+          "precision": 0.8041237113402062,
+          "recall": 0.9230769230769231,
+          "f1": 0.859504132231405
+        }
+      }
+    },
+    "precision_at_recall90": {
+      "threshold": 0.10565027594566345,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 23,
+          "fn": 16,
+          "precision": 0.8693181818181818,
+          "recall": 0.9053254437869822,
+          "f1": 0.8869565217391304
+        }
+      }
+    }
+  }
+}

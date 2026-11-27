@@ -1,0 +1,80 @@
+{
+  "created_at": "2026-10-29T12:34:41.831507+00:00",
+  "selection_split": "val",
+  "test_used": false,
+  "formal_acceptance_passed": false,
+  "selected": {
+    "name": "road-recovery-20261029",
+    "tta": null,
+    "report": "reports/data-expansion-20261029/recovery/candidate-val/report.json",
+    "thresholds": "reports/data-expansion-20261029/recovery/candidate-val/val.thresholds.json",
+    "metrics": {
+      "tp": 153,
+      "fp": 26,
+      "fn": 16,
+      "precision": 0.8547486033519553,
+      "recall": 0.9053254437869822,
+      "f1": 0.8793103448275863
+    },
+    "average_precision": {
+      "map50": 0.8932692528012864,
+      "map50_95": 0.640913975532908
+    },
+    "calibration": {
+      "joint_target_feasible": true,
+      "selection_policy": "joint_precision80_recall90",
+      "selected": {
+        "threshold": 0.18819282948970795,
+        "metrics": {
+          "0": {
+            "tp": 153,
+            "fp": 26,
+            "fn": 16,
+            "precision": 0.8547486033519553,
+            "recall": 0.9053254437869822,
+            "f1": 0.8793103448275863
+          }
+        }
+      },
+      "recall_at_precision80": {
+        "threshold": 0.18819282948970795,
+        "metrics": {
+          "0": {
+            "tp": 153,
+            "fp": 26,
+            "fn": 16,
+            "precision": 0.8547486033519553,
+            "recall": 0.9053254437869822,
+            "f1": 0.8793103448275863
+          }
+        }
+      },
+      "precision_at_recall90": {
+        "threshold": 0.18819282948970795,
+        "metrics": {
+          "0": {
+            "tp": 153,
+            "fp": 26,
+            "fn": 16,
+            "precision": 0.8547486033519553,
+            "recall": 0.9053254437869822,
+            "f1": 0.8793103448275863
+          }
+        }
+      }
+    }
+  },
+  "preview_args": [
+    "detect.py",
+    "--weights",
+    "runs/concrete-crack-road-recovery-20261029/weights/best_deployment.pt",
+    "--thresholds",
+    "reports/data-expansion-20261029/recovery/candidate-val/val.thresholds.json",
+    "--allow-unvalidated",
+    "--nms-iou",
+    "0.3"
+  ],
+  "selection_manifest": "reports/data-expansion-20261029/selection-freeze.json",
+  "previous_configuration": "reports/data-expansion-20261029/previous-preview-config.json",
+  "development_comparison": "reports/data-expansion-20261029/recovery/comparison.json"
+}

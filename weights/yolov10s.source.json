@@ -1,0 +1,6 @@
+{
+  "url": "https://github.com/THU-MIG/yolov10/releases/download/v1.1/yolov10s.pt",
+  "sha256": "96af3fc7c7169abcc4867f3e3088b761bb33cf801283c2ec05f9703d63a0ba77",
+  "at": "2026-10-18T06:50:37.271566+00:00",
+  "purpose": "COCO pretrained initialization, NOT a trained crack detector"
+}

@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-29T11:52:14.300585+00:00",
+  "seed": 42,
+  "epochs": 8,
+  "source_sha256": "46a50d74d5238981a183a1bb87ae2a2eb04bce9eead10150c7b379e61843f913",
+  "data_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "config_sha256": "33cefc60ba88ec7ad6ede3b5003f1c5a4d8ca15de79e80bd88da58739954e79c",
+  "hypothesis": "Real pavement non-cracked supervision plus localized concrete cracks can reduce background false positives while maintaining crack recall.",
+  "selection": "8-epoch head-only fine-tune; existing DeploymentSelection lexicographic joint P80/R90, R@P80, F1 on mixed val only; frozen BN; negatives 2x, positives 1x.",
+  "promotion_rule": "Candidate mixed-val P>=.80 and R>=.90 at calibrated threshold; original 164 positive-val R>=.90 at same threshold; fewer negative-image FPs than baseline at its existing deployment threshold. Report also equal-recall comparison. If gates fail keep existing preview.",
+  "primary_evaluation": "Mixed development val: original 164 positive images plus screened SDNET negative prefix-held groups; IoU .5, preprocessing 960+16border, NMS .3.",
+  "secondary": "Same previous 24 evenly spaced target video frames: number of boxes area>=.8 with confidence>=.5; unlabeled video diagnosis, not precision/recall or promotion gate.",
+  "old_test_observed": true,
+  "repeat_test_for_selection": false,
+  "formal_acceptance": false,
+  "limitations": "No independent road-scene acceptance set; val used for model selection, grouped negatives rely on filename proxies; DamSegment train-only. This is a combined-scheme experiment, not isolated causal proof."
+}

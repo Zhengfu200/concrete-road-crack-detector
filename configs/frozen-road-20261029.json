@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-10-29T13:04:58.937349+00:00",
+  "weights": "runs/concrete-crack-road-recovery-20261029/weights/best_deployment.pt",
+  "thresholds": "reports/data-expansion-20261029/recovery/candidate-val/val.thresholds.json",
+  "confidence": 0.18819282948970795,
+  "nms_iou": 0.3,
+  "imgsz": 960,
+  "device": "0",
+  "tta": null,
+  "files": {
+    "runs/concrete-crack-road-recovery-20261029/weights/best_deployment.pt": "3e6541ebb2b1d32a19fb1e0146ea27921e6561c1a193883ca9b25e07faf5c9a4",
+    "runs/concrete-crack-road-recovery-20261029/weights/best_deployment.release.json": "cd721b92b1daa11af8c9eff3cabe8c5b65eb2f8546fb5866d53f9ed8369ff7f4",
+    "reports/data-expansion-20261029/recovery/candidate-val/val.thresholds.json": "8a81073a8ef1b1d7b9dbcf12fa6a8c8c6aefefa753c182a8802751a0e308c669",
+    "common.py": "a344d9a81e8b69edb05fe13a05c13114a9e2aca68bbe5569e436da82ec62b521",
+    "preprocessing.py": "5fbbc65cf0c645c361b3db4b4b70252efbf67768fac8bf07ca36224528b4aa38",
+    "inference.py": "0a8725d2e2c34dc671e447b9505a8c920dbe7a3d7e6e4719d2f061c6ca806fe6",
+    "run_frozen_video.py": "bf0a52987d653308330383db491a0d6d2cbfc0d96dea267121e8b3b154126269"
+  },
+  "packages": {
+    "torch": "2.12.1+cu130",
+    "ultralytics": "8.4.86",
+    "numpy": "2.5.2",
+    "opencv-python": "4.14.0.94"
+  },
+  "formal_acceptance": false,
+  "notes": "Explicit frozen entry; independent from dynamic preview config, no threshold slider; whole selected video; no automatic ROI crop or video filtering."
+}

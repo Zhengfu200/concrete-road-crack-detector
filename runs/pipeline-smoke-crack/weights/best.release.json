@@ -1,0 +1,51 @@
+{
+  "status": "smoke_only",
+  "purpose": "pipeline_smoke",
+  "classes": {
+    "0": "crack"
+  },
+  "created_at": "2026-10-18T06:51:08.287488+00:00",
+  "data_directory": "USER_HOME\\OneDrive\\个人资料\\专业导论项目\\crack_detector\\data\\prepared\\smoke-crack-v1",
+  "provenance_sha256": "fe890baab555e1ff2a55f72ffc7435d6f8c81a92cf385460ad0f05d28697f889",
+  "environment": {
+    "torch": "2.12.1+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU",
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ],
+    "backward_pass": true,
+    "created_at": "2026-10-18T06:51:08.207708+00:00"
+  },
+  "training_args": {
+    "imgsz": 320,
+    "epochs": 1,
+    "patience": 1,
+    "batch": 2,
+    "seed": 42,
+    "workers": 0,
+    "device": "0",
+    "amp": true,
+    "optimizer": "AdamW",
+    "lr0": 0.001,
+    "close_mosaic": 0,
+    "mosaic": 0.0,
+    "mixup": 0.0,
+    "degrees": 10.0,
+    "fliplr": 0.5,
+    "flipud": 0.5,
+    "plots": true,
+    "save": true,
+    "data": "USER_HOME\\OneDrive\\个人资料\\专业导论项目\\crack_detector\\data\\prepared\\smoke-crack-v1\\data.yaml",
+    "project": "USER_HOME\\OneDrive\\个人资料\\专业导论项目\\crack_detector\\runs",
+    "name": "pipeline-smoke-crack",
+    "exist_ok": false
+  },
+  "attempts": [],
+  "weights_sha256": "49e80cc87068e2ca886f5c6566194734991792dc0cc8ba553d61164d75ba4524"
+}

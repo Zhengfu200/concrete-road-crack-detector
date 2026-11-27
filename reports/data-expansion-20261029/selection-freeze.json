@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-29T12:34:41.816023+00:00",
+  "selected_run": "concrete-crack-road-recovery-20261029",
+  "selected_epoch": 3,
+  "weights_sha256": "3e6541ebb2b1d32a19fb1e0146ea27921e6561c1a193883ca9b25e07faf5c9a4",
+  "thresholds_sha256": "8a81073a8ef1b1d7b9dbcf12fa6a8c8c6aefefa753c182a8802751a0e308c669",
+  "dataset_provenance_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "selection_split": "val",
+  "formal_acceptance": false,
+  "old_test_reused": false,
+  "comparison": "PROJECT_ROOT\\reports\\data-expansion-20261029\\recovery\\comparison.json",
+  "promotion_gates": {
+    "mixed_precision80": true,
+    "mixed_recall90": true,
+    "positive_recall90": true,
+    "background_false_boxes_reduced": true
+  },
+  "stream_check": "PROJECT_ROOT\\reports\\data-expansion-20261029\\stream-check.json"
+}

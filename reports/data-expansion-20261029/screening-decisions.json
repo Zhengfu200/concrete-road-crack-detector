@@ -1,0 +1,5662 @@
+{
+  "at": "2026-10-29T11:51:21.302941+00:00",
+  "method": "AI visual screen of all 24 native-256 negative sheets and 13 downsampled-320 positive polygon-overlay sheets; uncertain excluded. Not expert or exhaustive pixel review.",
+  "decisions": [
+    {
+      "kind": "negative",
+      "index": 0,
+      "id": "sdnet-pu-088-69",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 1,
+      "id": "sdnet-pu-097-15",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 2,
+      "id": "sdnet-pu-039-107",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 3,
+      "id": "sdnet-pu-087-1",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 4,
+      "id": "sdnet-pu-060-94",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 5,
+      "id": "sdnet-pu-018-163",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 6,
+      "id": "sdnet-pu-014-155",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 7,
+      "id": "sdnet-pu-034-175",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 8,
+      "id": "sdnet-pu-025-43",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 9,
+      "id": "sdnet-pu-004-40",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 10,
+      "id": "sdnet-pu-026-9",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 11,
+      "id": "sdnet-pu-063-1",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 12,
+      "id": "sdnet-pu-066-115",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 13,
+      "id": "sdnet-pu-045-71",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 14,
+      "id": "sdnet-pu-051-45",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 15,
+      "id": "sdnet-pu-070-143",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 16,
+      "id": "sdnet-pu-040-228",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 17,
+      "id": "sdnet-pu-010-201",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 18,
+      "id": "sdnet-pu-097-66",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 19,
+      "id": "sdnet-pu-026-191",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 20,
+      "id": "sdnet-pu-039-192",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 21,
+      "id": "sdnet-pu-069-111",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 22,
+      "id": "sdnet-pu-036-188",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 23,
+      "id": "sdnet-pu-049-27",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 24,
+      "id": "sdnet-pu-055-101",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 25,
+      "id": "sdnet-pu-081-90",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 26,
+      "id": "sdnet-pu-052-94",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 27,
+      "id": "sdnet-pu-047-12",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 28,
+      "id": "sdnet-pu-054-111",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 29,
+      "id": "sdnet-pu-103-52",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 30,
+      "id": "sdnet-pu-009-60",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 31,
+      "id": "sdnet-pu-056-220",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 32,
+      "id": "sdnet-pu-041-159",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 33,
+      "id": "sdnet-pu-053-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 34,
+      "id": "sdnet-pu-047-32",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 35,
+      "id": "sdnet-pu-075-5",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 36,
+      "id": "sdnet-pu-046-211",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 37,
+      "id": "sdnet-pu-074-31",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 38,
+      "id": "sdnet-pu-001-227",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 39,
+      "id": "sdnet-pu-074-232",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 40,
+      "id": "sdnet-pu-026-185",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 41,
+      "id": "sdnet-pu-053-150",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 42,
+      "id": "sdnet-pu-028-7",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 43,
+      "id": "sdnet-pu-007-205",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 44,
+      "id": "sdnet-pu-004-136",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 45,
+      "id": "sdnet-pu-012-131",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 46,
+      "id": "sdnet-pu-088-153",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 47,
+      "id": "sdnet-pu-065-157",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 48,
+      "id": "sdnet-pu-079-216",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 49,
+      "id": "sdnet-pu-016-39",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 50,
+      "id": "sdnet-pu-059-37",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 51,
+      "id": "sdnet-pu-065-79",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 52,
+      "id": "sdnet-pu-002-49",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 53,
+      "id": "sdnet-pu-076-16",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 54,
+      "id": "sdnet-pu-033-196",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 55,
+      "id": "sdnet-pu-060-151",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 56,
+      "id": "sdnet-pu-040-142",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 57,
+      "id": "sdnet-pu-091-166",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 58,
+      "id": "sdnet-pu-084-53",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 59,
+      "id": "sdnet-pu-062-186",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 60,
+      "id": "sdnet-pu-015-173",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 61,
+      "id": "sdnet-pu-048-153",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 62,
+      "id": "sdnet-pu-080-212",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 63,
+      "id": "sdnet-pu-022-84",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 64,
+      "id": "sdnet-pu-024-21",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 65,
+      "id": "sdnet-pu-025-160",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 66,
+      "id": "sdnet-pu-023-218",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 67,
+      "id": "sdnet-pu-102-94",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 68,
+      "id": "sdnet-pu-061-222",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 69,
+      "id": "sdnet-pu-018-144",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 70,
+      "id": "sdnet-pu-019-215",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 71,
+      "id": "sdnet-pu-022-219",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 72,
+      "id": "sdnet-pu-052-180",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 73,
+      "id": "sdnet-pu-063-55",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 74,
+      "id": "sdnet-pu-073-180",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 75,
+      "id": "sdnet-pu-093-177",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 76,
+      "id": "sdnet-pu-023-105",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 77,
+      "id": "sdnet-pu-009-39",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 78,
+      "id": "sdnet-pu-081-107",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 79,
+      "id": "sdnet-pu-028-70",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 80,
+      "id": "sdnet-pu-090-220",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 81,
+      "id": "sdnet-pu-063-34",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 82,
+      "id": "sdnet-pu-014-203",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 83,
+      "id": "sdnet-pu-045-22",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 84,
+      "id": "sdnet-pu-079-209",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 85,
+      "id": "sdnet-pu-086-134",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 86,
+      "id": "sdnet-pu-086-163",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 87,
+      "id": "sdnet-pu-104-174",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 88,
+      "id": "sdnet-pu-041-230",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 89,
+      "id": "sdnet-pu-088-170",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 90,
+      "id": "sdnet-pu-079-186",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 91,
+      "id": "sdnet-pu-081-181",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 92,
+      "id": "sdnet-pu-082-201",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 93,
+      "id": "sdnet-pu-022-57",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 94,
+      "id": "sdnet-pu-062-63",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 95,
+      "id": "sdnet-pu-060-60",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 96,
+      "id": "sdnet-pu-001-84",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 97,
+      "id": "sdnet-pu-063-74",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 98,
+      "id": "sdnet-pu-020-32",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 99,
+      "id": "sdnet-pu-077-129",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 100,
+      "id": "sdnet-pu-083-66",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 101,
+      "id": "sdnet-pu-006-98",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 102,
+      "id": "sdnet-pu-001-219",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 103,
+      "id": "sdnet-pu-093-74",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 104,
+      "id": "sdnet-pu-065-114",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 105,
+      "id": "sdnet-pu-093-22",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 106,
+      "id": "sdnet-pu-006-184",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 107,
+      "id": "sdnet-pu-003-50",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 108,
+      "id": "sdnet-pu-060-179",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 109,
+      "id": "sdnet-pu-019-56",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 110,
+      "id": "sdnet-pu-012-15",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 111,
+      "id": "sdnet-pu-057-78",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 112,
+      "id": "sdnet-pu-036-214",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 113,
+      "id": "sdnet-pu-009-171",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 114,
+      "id": "sdnet-pu-001-226",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 115,
+      "id": "sdnet-pu-088-224",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 116,
+      "id": "sdnet-pu-028-160",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 117,
+      "id": "sdnet-pu-054-52",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 118,
+      "id": "sdnet-pu-025-126",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 119,
+      "id": "sdnet-pu-034-197",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 120,
+      "id": "sdnet-pu-006-217",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 121,
+      "id": "sdnet-pu-043-183",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 122,
+      "id": "sdnet-pu-008-59",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 123,
+      "id": "sdnet-pu-098-195",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 124,
+      "id": "sdnet-pu-027-132",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 125,
+      "id": "sdnet-pu-010-8",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 126,
+      "id": "sdnet-pu-063-223",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 127,
+      "id": "sdnet-pu-048-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 128,
+      "id": "sdnet-pu-035-76",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 129,
+      "id": "sdnet-pu-054-33",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 130,
+      "id": "sdnet-pu-075-143",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 131,
+      "id": "sdnet-pu-035-226",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 132,
+      "id": "sdnet-pu-037-73",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 133,
+      "id": "sdnet-pu-027-9",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 134,
+      "id": "sdnet-pu-044-232",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 135,
+      "id": "sdnet-pu-007-63",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 136,
+      "id": "sdnet-pu-085-137",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 137,
+      "id": "sdnet-pu-043-204",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 138,
+      "id": "sdnet-pu-059-2",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 139,
+      "id": "sdnet-pu-005-126",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 140,
+      "id": "sdnet-pu-012-123",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 141,
+      "id": "sdnet-pu-083-9",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 142,
+      "id": "sdnet-pu-018-18",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 143,
+      "id": "sdnet-pu-061-25",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 144,
+      "id": "sdnet-pu-047-161",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 145,
+      "id": "sdnet-pu-055-20",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 146,
+      "id": "sdnet-pu-055-18",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 147,
+      "id": "sdnet-pu-085-15",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 148,
+      "id": "sdnet-pu-093-23",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 149,
+      "id": "sdnet-pu-057-52",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 150,
+      "id": "sdnet-pu-005-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 151,
+      "id": "sdnet-pu-086-139",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 152,
+      "id": "sdnet-pu-098-35",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 153,
+      "id": "sdnet-pu-093-133",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 154,
+      "id": "sdnet-pu-066-203",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 155,
+      "id": "sdnet-pu-017-25",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 156,
+      "id": "sdnet-pu-052-115",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 157,
+      "id": "sdnet-pu-056-188",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 158,
+      "id": "sdnet-pu-058-133",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 159,
+      "id": "sdnet-pu-047-184",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 160,
+      "id": "sdnet-pu-090-48",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 161,
+      "id": "sdnet-pu-090-151",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 162,
+      "id": "sdnet-pu-098-139",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 163,
+      "id": "sdnet-pu-083-21",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 164,
+      "id": "sdnet-pu-009-146",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 165,
+      "id": "sdnet-pu-014-51",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 166,
+      "id": "sdnet-pu-073-69",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 167,
+      "id": "sdnet-pu-084-144",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 168,
+      "id": "sdnet-pu-085-34",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 169,
+      "id": "sdnet-pu-068-47",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 170,
+      "id": "sdnet-pu-100-81",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 171,
+      "id": "sdnet-pu-088-51",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 172,
+      "id": "sdnet-pu-061-47",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 173,
+      "id": "sdnet-pu-009-151",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 174,
+      "id": "sdnet-pu-016-200",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 175,
+      "id": "sdnet-pu-058-145",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 176,
+      "id": "sdnet-pu-025-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 177,
+      "id": "sdnet-pu-013-218",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 178,
+      "id": "sdnet-pu-026-94",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 179,
+      "id": "sdnet-pu-061-57",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 180,
+      "id": "sdnet-pu-001-19",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 181,
+      "id": "sdnet-pu-066-210",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 182,
+      "id": "sdnet-pu-081-196",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 183,
+      "id": "sdnet-pu-058-226",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 184,
+      "id": "sdnet-pu-034-184",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 185,
+      "id": "sdnet-pu-073-107",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 186,
+      "id": "sdnet-pu-082-220",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 187,
+      "id": "sdnet-pu-008-17",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 188,
+      "id": "sdnet-pu-004-189",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 189,
+      "id": "sdnet-pu-019-103",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 190,
+      "id": "sdnet-pu-040-164",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 191,
+      "id": "sdnet-pu-034-43",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 192,
+      "id": "sdnet-pu-058-43",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 193,
+      "id": "sdnet-pu-051-44",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 194,
+      "id": "sdnet-pu-091-14",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 195,
+      "id": "sdnet-pu-063-13",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 196,
+      "id": "sdnet-pu-006-205",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 197,
+      "id": "sdnet-pu-044-39",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 198,
+      "id": "sdnet-pu-043-120",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 199,
+      "id": "sdnet-pu-083-178",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 200,
+      "id": "sdnet-pu-006-176",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 201,
+      "id": "sdnet-pu-059-229",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 202,
+      "id": "sdnet-pu-009-128",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 203,
+      "id": "sdnet-pu-092-168",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 204,
+      "id": "sdnet-pu-060-216",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 205,
+      "id": "sdnet-pu-097-14",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 206,
+      "id": "sdnet-pu-023-130",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 207,
+      "id": "sdnet-pu-034-108",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 208,
+      "id": "sdnet-pu-006-64",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 209,
+      "id": "sdnet-pu-057-17",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 210,
+      "id": "sdnet-pu-062-218",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 211,
+      "id": "sdnet-pu-093-196",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 212,
+      "id": "sdnet-pu-038-224",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 213,
+      "id": "sdnet-pu-099-59",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 214,
+      "id": "sdnet-pu-069-13",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 215,
+      "id": "sdnet-pu-077-221",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 216,
+      "id": "sdnet-pu-084-190",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 217,
+      "id": "sdnet-pu-006-101",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 218,
+      "id": "sdnet-pu-044-107",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 219,
+      "id": "sdnet-pu-090-28",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 220,
+      "id": "sdnet-pu-002-9",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 221,
+      "id": "sdnet-pu-098-155",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 222,
+      "id": "sdnet-pu-007-135",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 223,
+      "id": "sdnet-pu-102-81",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 224,
+      "id": "sdnet-pu-044-28",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 225,
+      "id": "sdnet-pu-089-166",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 226,
+      "id": "sdnet-pu-055-1",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 227,
+      "id": "sdnet-pu-098-202",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 228,
+      "id": "sdnet-pu-004-7",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 229,
+      "id": "sdnet-pu-064-133",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 230,
+      "id": "sdnet-pu-005-122",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 231,
+      "id": "sdnet-pu-006-109",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 232,
+      "id": "sdnet-pu-011-76",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 233,
+      "id": "sdnet-pu-078-157",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 234,
+      "id": "sdnet-pu-001-51",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 235,
+      "id": "sdnet-pu-048-104",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 236,
+      "id": "sdnet-pu-003-63",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 237,
+      "id": "sdnet-pu-046-75",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 238,
+      "id": "sdnet-pu-052-135",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 239,
+      "id": "sdnet-pu-078-32",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 240,
+      "id": "sdnet-pu-044-199",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 241,
+      "id": "sdnet-pu-041-65",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 242,
+      "id": "sdnet-pu-036-233",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 243,
+      "id": "sdnet-pu-037-163",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 244,
+      "id": "sdnet-pu-078-195",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 245,
+      "id": "sdnet-pu-054-23",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 246,
+      "id": "sdnet-pu-054-163",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 247,
+      "id": "sdnet-pu-023-4",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 248,
+      "id": "sdnet-pu-097-126",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 249,
+      "id": "sdnet-pu-057-99",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 250,
+      "id": "sdnet-pu-072-21",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 251,
+      "id": "sdnet-pu-031-85",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 252,
+      "id": "sdnet-pu-001-207",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 253,
+      "id": "sdnet-pu-086-218",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 254,
+      "id": "sdnet-pu-052-166",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 255,
+      "id": "sdnet-pu-022-122",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 256,
+      "id": "sdnet-pu-092-120",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 257,
+      "id": "sdnet-pu-081-72",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 258,
+      "id": "sdnet-pu-060-173",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 259,
+      "id": "sdnet-pu-045-187",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 260,
+      "id": "sdnet-pu-040-146",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 261,
+      "id": "sdnet-pu-093-27",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 262,
+      "id": "sdnet-pu-036-198",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 263,
+      "id": "sdnet-pu-046-44",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 264,
+      "id": "sdnet-pu-082-224",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 265,
+      "id": "sdnet-pu-019-42",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 266,
+      "id": "sdnet-pu-040-161",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 267,
+      "id": "sdnet-pu-082-142",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 268,
+      "id": "sdnet-pu-064-87",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 269,
+      "id": "sdnet-pu-033-59",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 270,
+      "id": "sdnet-pu-100-46",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 271,
+      "id": "sdnet-pu-033-13",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 272,
+      "id": "sdnet-pu-054-69",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 273,
+      "id": "sdnet-pu-091-199",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 274,
+      "id": "sdnet-pu-099-14",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 275,
+      "id": "sdnet-pu-036-39",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 276,
+      "id": "sdnet-pu-090-138",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 277,
+      "id": "sdnet-pu-096-220",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 278,
+      "id": "sdnet-pu-099-202",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 279,
+      "id": "sdnet-pu-097-94",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 280,
+      "id": "sdnet-pu-005-191",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 281,
+      "id": "sdnet-pu-026-54",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 282,
+      "id": "sdnet-pu-073-179",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 283,
+      "id": "sdnet-pu-073-3",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 284,
+      "id": "sdnet-pu-031-71",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 285,
+      "id": "sdnet-pu-031-153",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 286,
+      "id": "sdnet-pu-021-82",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 287,
+      "id": "sdnet-pu-053-78",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 288,
+      "id": "sdnet-pu-063-47",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 289,
+      "id": "sdnet-pu-068-53",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 290,
+      "id": "sdnet-pu-090-203",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 291,
+      "id": "sdnet-pu-071-117",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 292,
+      "id": "sdnet-pu-020-35",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 293,
+      "id": "sdnet-pu-013-63",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 294,
+      "id": "sdnet-pu-097-216",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 295,
+      "id": "sdnet-pu-046-112",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 296,
+      "id": "sdnet-pu-061-169",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 297,
+      "id": "sdnet-pu-066-197",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 298,
+      "id": "sdnet-pu-102-131",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 299,
+      "id": "sdnet-pu-041-110",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 300,
+      "id": "sdnet-pu-066-172",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 301,
+      "id": "sdnet-pu-031-199",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 302,
+      "id": "sdnet-pu-034-30",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 303,
+      "id": "sdnet-pu-003-115",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 304,
+      "id": "sdnet-pu-085-56",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 305,
+      "id": "sdnet-pu-094-31",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 306,
+      "id": "sdnet-pu-053-230",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 307,
+      "id": "sdnet-pu-038-93",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 308,
+      "id": "sdnet-pu-060-150",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 309,
+      "id": "sdnet-pu-054-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 310,
+      "id": "sdnet-pu-103-187",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 311,
+      "id": "sdnet-pu-006-118",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 312,
+      "id": "sdnet-pu-097-178",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 313,
+      "id": "sdnet-pu-030-228",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 314,
+      "id": "sdnet-pu-088-163",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 315,
+      "id": "sdnet-pu-029-232",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 316,
+      "id": "sdnet-pu-087-173",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 317,
+      "id": "sdnet-pu-057-174",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 318,
+      "id": "sdnet-pu-062-50",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 319,
+      "id": "sdnet-pu-053-192",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 320,
+      "id": "sdnet-pu-048-170",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 321,
+      "id": "sdnet-pu-070-135",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 322,
+      "id": "sdnet-pu-040-202",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 323,
+      "id": "sdnet-pu-036-211",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 324,
+      "id": "sdnet-pu-039-28",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 325,
+      "id": "sdnet-pu-050-228",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 326,
+      "id": "sdnet-pu-066-65",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 327,
+      "id": "sdnet-pu-001-212",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 328,
+      "id": "sdnet-pu-067-7",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 329,
+      "id": "sdnet-pu-008-189",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 330,
+      "id": "sdnet-pu-104-117",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 331,
+      "id": "sdnet-pu-073-228",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 332,
+      "id": "sdnet-pu-008-18",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 333,
+      "id": "sdnet-pu-056-191",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 334,
+      "id": "sdnet-pu-039-156",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 335,
+      "id": "sdnet-pu-024-29",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 336,
+      "id": "sdnet-pu-083-27",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 337,
+      "id": "sdnet-pu-083-87",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 338,
+      "id": "sdnet-pu-068-66",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 339,
+      "id": "sdnet-pu-081-150",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 340,
+      "id": "sdnet-pu-095-222",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 341,
+      "id": "sdnet-pu-058-37",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 342,
+      "id": "sdnet-pu-063-172",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 343,
+      "id": "sdnet-pu-074-1",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 344,
+      "id": "sdnet-pu-098-78",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 345,
+      "id": "sdnet-pu-076-86",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 346,
+      "id": "sdnet-pu-090-215",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 347,
+      "id": "sdnet-pu-070-75",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 348,
+      "id": "sdnet-pu-062-66",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 349,
+      "id": "sdnet-pu-075-33",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 350,
+      "id": "sdnet-pu-002-6",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 351,
+      "id": "sdnet-pu-094-74",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 352,
+      "id": "sdnet-pu-006-116",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 353,
+      "id": "sdnet-pu-075-211",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 354,
+      "id": "sdnet-pu-040-131",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 355,
+      "id": "sdnet-pu-016-115",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 356,
+      "id": "sdnet-pu-006-50",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 357,
+      "id": "sdnet-pu-067-100",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 358,
+      "id": "sdnet-pu-020-64",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 359,
+      "id": "sdnet-pu-063-9",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 360,
+      "id": "sdnet-pu-094-165",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 361,
+      "id": "sdnet-pu-024-162",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 362,
+      "id": "sdnet-pu-080-29",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 363,
+      "id": "sdnet-pu-031-13",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 364,
+      "id": "sdnet-pu-080-127",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 365,
+      "id": "sdnet-pu-094-207",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 366,
+      "id": "sdnet-pu-033-20",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 367,
+      "id": "sdnet-pu-008-196",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 368,
+      "id": "sdnet-pu-060-46",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 369,
+      "id": "sdnet-pu-069-205",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 370,
+      "id": "sdnet-pu-082-223",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 371,
+      "id": "sdnet-pu-053-171",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 372,
+      "id": "sdnet-pu-011-213",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 373,
+      "id": "sdnet-pu-076-166",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 374,
+      "id": "sdnet-pu-100-215",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 375,
+      "id": "sdnet-pu-020-196",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 376,
+      "id": "sdnet-pu-058-30",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 377,
+      "id": "sdnet-pu-019-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 378,
+      "id": "sdnet-pu-083-161",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 379,
+      "id": "sdnet-pu-076-167",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 380,
+      "id": "sdnet-pu-090-192",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 381,
+      "id": "sdnet-pu-042-221",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 382,
+      "id": "sdnet-pu-017-163",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 383,
+      "id": "sdnet-pu-046-29",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 384,
+      "id": "sdnet-pu-053-32",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 385,
+      "id": "sdnet-pu-066-234",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 386,
+      "id": "sdnet-pu-037-131",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 387,
+      "id": "sdnet-pu-055-170",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 388,
+      "id": "sdnet-pu-027-23",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 389,
+      "id": "sdnet-pu-041-12",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 390,
+      "id": "sdnet-pu-049-66",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 391,
+      "id": "sdnet-pu-024-169",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 392,
+      "id": "sdnet-pu-011-105",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 393,
+      "id": "sdnet-pu-030-94",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 394,
+      "id": "sdnet-pu-076-141",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 395,
+      "id": "sdnet-pu-057-53",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 396,
+      "id": "sdnet-pu-075-79",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 397,
+      "id": "sdnet-pu-030-34",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 398,
+      "id": "sdnet-pu-002-63",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 399,
+      "id": "sdnet-pu-031-89",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 400,
+      "id": "sdnet-pu-055-140",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 401,
+      "id": "sdnet-pu-053-226",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 402,
+      "id": "sdnet-pu-045-73",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 403,
+      "id": "sdnet-pu-103-183",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 404,
+      "id": "sdnet-pu-047-183",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 405,
+      "id": "sdnet-pu-075-67",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 406,
+      "id": "sdnet-pu-006-43",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 407,
+      "id": "sdnet-pu-101-147",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 408,
+      "id": "sdnet-pu-053-11",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 409,
+      "id": "sdnet-pu-019-87",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 410,
+      "id": "sdnet-pu-030-44",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 411,
+      "id": "sdnet-pu-006-189",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 412,
+      "id": "sdnet-pu-100-39",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 413,
+      "id": "sdnet-pu-068-1",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 414,
+      "id": "sdnet-pu-042-71",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 415,
+      "id": "sdnet-pu-097-4",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 416,
+      "id": "sdnet-pu-010-31",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 417,
+      "id": "sdnet-pu-074-96",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 418,
+      "id": "sdnet-pu-002-32",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 419,
+      "id": "sdnet-pu-054-156",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 420,
+      "id": "sdnet-pu-101-180",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 421,
+      "id": "sdnet-pu-030-96",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 422,
+      "id": "sdnet-pu-102-189",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 423,
+      "id": "sdnet-pu-041-36",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 424,
+      "id": "sdnet-pu-099-131",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 425,
+      "id": "sdnet-pu-004-180",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 426,
+      "id": "sdnet-pu-060-109",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 427,
+      "id": "sdnet-pu-061-136",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 428,
+      "id": "sdnet-pu-100-85",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 429,
+      "id": "sdnet-pu-062-205",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 430,
+      "id": "sdnet-pu-024-138",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 431,
+      "id": "sdnet-pu-096-176",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 432,
+      "id": "sdnet-pu-088-143",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 433,
+      "id": "sdnet-pu-058-27",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 434,
+      "id": "sdnet-pu-011-88",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 435,
+      "id": "sdnet-pu-066-146",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 436,
+      "id": "sdnet-pu-100-135",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 437,
+      "id": "sdnet-pu-081-172",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 438,
+      "id": "sdnet-pu-070-123",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 439,
+      "id": "sdnet-pu-102-219",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 440,
+      "id": "sdnet-pu-020-61",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 441,
+      "id": "sdnet-pu-095-138",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 442,
+      "id": "sdnet-pu-102-26",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 443,
+      "id": "sdnet-pu-084-182",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 444,
+      "id": "sdnet-pu-045-162",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 445,
+      "id": "sdnet-pu-009-113",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 446,
+      "id": "sdnet-pu-035-163",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 447,
+      "id": "sdnet-pu-087-129",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 448,
+      "id": "sdnet-pu-072-200",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 449,
+      "id": "sdnet-pu-100-29",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 450,
+      "id": "sdnet-pu-032-87",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 451,
+      "id": "sdnet-pu-051-57",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 452,
+      "id": "sdnet-pu-037-195",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 453,
+      "id": "sdnet-pu-086-26",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 454,
+      "id": "sdnet-pu-086-121",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 455,
+      "id": "sdnet-pu-025-11",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 456,
+      "id": "sdnet-pu-036-69",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 457,
+      "id": "sdnet-pu-093-188",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 458,
+      "id": "sdnet-pu-086-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 459,
+      "id": "sdnet-pu-029-182",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 460,
+      "id": "sdnet-pu-088-29",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 461,
+      "id": "sdnet-pu-094-29",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 462,
+      "id": "sdnet-pu-086-90",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 463,
+      "id": "sdnet-pu-035-116",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 464,
+      "id": "sdnet-pu-019-197",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 465,
+      "id": "sdnet-pu-091-155",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 466,
+      "id": "sdnet-pu-093-91",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 467,
+      "id": "sdnet-pu-056-105",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 468,
+      "id": "sdnet-pu-065-201",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 469,
+      "id": "sdnet-pu-069-68",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 470,
+      "id": "sdnet-pu-088-7",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 471,
+      "id": "sdnet-pu-025-127",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 472,
+      "id": "sdnet-pu-042-104",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 473,
+      "id": "sdnet-pu-041-124",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 474,
+      "id": "sdnet-pu-030-178",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 475,
+      "id": "sdnet-pu-080-149",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 476,
+      "id": "sdnet-pu-075-232",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 477,
+      "id": "sdnet-pu-093-112",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 478,
+      "id": "sdnet-pu-072-213",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 479,
+      "id": "sdnet-pu-043-211",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 480,
+      "id": "sdnet-pu-047-129",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 481,
+      "id": "sdnet-pu-100-11",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 482,
+      "id": "sdnet-pu-026-215",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 483,
+      "id": "sdnet-pu-032-193",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 484,
+      "id": "sdnet-pu-025-117",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 485,
+      "id": "sdnet-pu-041-220",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 486,
+      "id": "sdnet-pu-041-219",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 487,
+      "id": "sdnet-pu-047-19",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 488,
+      "id": "sdnet-pu-057-5",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 489,
+      "id": "sdnet-pu-064-143",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 490,
+      "id": "sdnet-pu-094-200",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 491,
+      "id": "sdnet-pu-024-48",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 492,
+      "id": "sdnet-pu-093-220",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 493,
+      "id": "sdnet-pu-083-226",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 494,
+      "id": "sdnet-pu-029-22",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 495,
+      "id": "sdnet-pu-028-59",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 496,
+      "id": "sdnet-pu-069-153",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 497,
+      "id": "sdnet-pu-093-139",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 498,
+      "id": "sdnet-pu-088-8",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 499,
+      "id": "sdnet-pu-055-30",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 500,
+      "id": "sdnet-pu-096-179",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 501,
+      "id": "sdnet-pu-090-226",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 502,
+      "id": "sdnet-pu-007-55",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 503,
+      "id": "sdnet-pu-091-84",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 504,
+      "id": "sdnet-pu-099-53",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 505,
+      "id": "sdnet-pu-065-204",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 506,
+      "id": "sdnet-pu-085-17",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 507,
+      "id": "sdnet-pu-055-60",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 508,
+      "id": "sdnet-pu-094-214",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 509,
+      "id": "sdnet-pu-057-36",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 510,
+      "id": "sdnet-pu-023-17",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 511,
+      "id": "sdnet-pu-033-177",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 512,
+      "id": "sdnet-pu-041-173",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 513,
+      "id": "sdnet-pu-059-116",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 514,
+      "id": "sdnet-pu-001-16",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 515,
+      "id": "sdnet-pu-012-207",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 516,
+      "id": "sdnet-pu-088-188",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 517,
+      "id": "sdnet-pu-019-5",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 518,
+      "id": "sdnet-pu-102-200",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 519,
+      "id": "sdnet-pu-069-229",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 520,
+      "id": "sdnet-pu-034-60",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 521,
+      "id": "sdnet-pu-036-8",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 522,
+      "id": "sdnet-pu-023-65",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 523,
+      "id": "sdnet-pu-095-167",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 524,
+      "id": "sdnet-pu-081-26",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 525,
+      "id": "sdnet-pu-013-127",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 526,
+      "id": "sdnet-pu-001-55",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 527,
+      "id": "sdnet-pu-026-230",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 528,
+      "id": "sdnet-pu-022-50",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 529,
+      "id": "sdnet-pu-021-55",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 530,
+      "id": "sdnet-pu-040-68",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 531,
+      "id": "sdnet-pu-022-196",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 532,
+      "id": "sdnet-pu-030-19",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 533,
+      "id": "sdnet-pu-042-207",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 534,
+      "id": "sdnet-pu-086-191",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 535,
+      "id": "sdnet-pu-082-147",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 536,
+      "id": "sdnet-pu-085-45",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 537,
+      "id": "sdnet-pu-032-15",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 538,
+      "id": "sdnet-pu-027-147",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 539,
+      "id": "sdnet-pu-103-126",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 540,
+      "id": "sdnet-pu-080-205",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 541,
+      "id": "sdnet-pu-060-38",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 542,
+      "id": "sdnet-pu-040-148",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 543,
+      "id": "sdnet-pu-087-33",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 544,
+      "id": "sdnet-pu-051-148",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 545,
+      "id": "sdnet-pu-093-212",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 546,
+      "id": "sdnet-pu-085-91",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 547,
+      "id": "sdnet-pu-064-221",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 548,
+      "id": "sdnet-pu-028-183",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 549,
+      "id": "sdnet-pu-064-149",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 550,
+      "id": "sdnet-pu-045-163",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 551,
+      "id": "sdnet-pu-059-154",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 552,
+      "id": "sdnet-pu-035-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 553,
+      "id": "sdnet-pu-064-179",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 554,
+      "id": "sdnet-pu-080-186",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 555,
+      "id": "sdnet-pu-055-197",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 556,
+      "id": "sdnet-pu-018-61",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 557,
+      "id": "sdnet-pu-039-22",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 558,
+      "id": "sdnet-pu-067-101",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 559,
+      "id": "sdnet-pu-099-43",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 560,
+      "id": "sdnet-pu-051-46",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 561,
+      "id": "sdnet-pu-078-177",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 562,
+      "id": "sdnet-pu-101-25",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 563,
+      "id": "sdnet-pu-035-206",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 564,
+      "id": "sdnet-pu-018-130",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 565,
+      "id": "sdnet-pu-067-112",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 566,
+      "id": "sdnet-pu-059-160",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 567,
+      "id": "sdnet-pu-081-121",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 568,
+      "id": "sdnet-pu-018-136",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 569,
+      "id": "sdnet-pu-059-152",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 570,
+      "id": "sdnet-pu-037-232",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 571,
+      "id": "sdnet-pu-069-126",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 572,
+      "id": "sdnet-pu-029-143",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 573,
+      "id": "sdnet-pu-089-143",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 574,
+      "id": "sdnet-pu-060-224",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 575,
+      "id": "sdnet-pu-054-185",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 576,
+      "id": "sdnet-pu-074-173",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 577,
+      "id": "sdnet-pu-039-77",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 578,
+      "id": "sdnet-pu-018-42",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 579,
+      "id": "sdnet-pu-042-16",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 580,
+      "id": "sdnet-pu-018-201",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 581,
+      "id": "sdnet-pu-083-60",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 582,
+      "id": "sdnet-pu-067-167",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 583,
+      "id": "sdnet-pu-085-189",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 584,
+      "id": "sdnet-pu-070-6",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 585,
+      "id": "sdnet-pu-045-203",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 586,
+      "id": "sdnet-pu-069-152",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 587,
+      "id": "sdnet-pu-055-221",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 588,
+      "id": "sdnet-pu-079-112",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 589,
+      "id": "sdnet-pu-101-193",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 590,
+      "id": "sdnet-pu-081-125",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 591,
+      "id": "sdnet-pu-067-11",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 592,
+      "id": "sdnet-pu-097-143",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 593,
+      "id": "sdnet-pu-022-132",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 594,
+      "id": "sdnet-pu-056-117",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 595,
+      "id": "sdnet-pu-077-125",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 596,
+      "id": "sdnet-pu-082-35",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 597,
+      "id": "sdnet-pu-055-114",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "negative",
+      "index": 598,
+      "id": "sdnet-pu-013-23",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "negative",
+      "index": 599,
+      "id": "sdnet-pu-086-200",
+      "action": "exclude_ambiguous",
+      "note": "Visible seam/crack/edge or ambiguous discontinuity; not used as clean negative."
+    },
+    {
+      "kind": "positive",
+      "index": 0,
+      "id": "dam-E-156",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 1,
+      "id": "dam-E-459",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 2,
+      "id": "dam-E-153",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 3,
+      "id": "dam-E-435",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 4,
+      "id": "dam-E-441",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 5,
+      "id": "dam-E-366",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 6,
+      "id": "dam-E-282",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 7,
+      "id": "dam-E-398",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 8,
+      "id": "dam-E-177",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 9,
+      "id": "dam-E-144",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 10,
+      "id": "dam-E-370",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 11,
+      "id": "dam-E-469",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 12,
+      "id": "dam-E-209",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 13,
+      "id": "dam-E-119",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 14,
+      "id": "dam-E-262",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 15,
+      "id": "dam-E-451",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 16,
+      "id": "dam-E-285",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 17,
+      "id": "dam-E-7",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 18,
+      "id": "dam-E-140",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 19,
+      "id": "dam-E-129",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 20,
+      "id": "dam-E-127",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 21,
+      "id": "dam-E-157",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 22,
+      "id": "dam-E-120",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 23,
+      "id": "dam-E-245",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 24,
+      "id": "dam-E-59",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 25,
+      "id": "dam-E-46",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 26,
+      "id": "dam-M-2",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 27,
+      "id": "dam-E-175",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 28,
+      "id": "dam-E-233",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 29,
+      "id": "dam-E-137",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 30,
+      "id": "dam-E-268",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 31,
+      "id": "dam-E-249",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 32,
+      "id": "dam-E-356",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 33,
+      "id": "dam-E-279",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 34,
+      "id": "dam-E-232",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 35,
+      "id": "dam-E-371",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 36,
+      "id": "dam-E-150",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 37,
+      "id": "dam-E-93",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 38,
+      "id": "dam-E-338",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 39,
+      "id": "dam-E-256",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 40,
+      "id": "dam-E-24",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 41,
+      "id": "dam-E-234",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 42,
+      "id": "dam-E-447",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 43,
+      "id": "dam-E-67",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 44,
+      "id": "dam-E-325",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 45,
+      "id": "dam-E-133",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 46,
+      "id": "dam-E-394",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 47,
+      "id": "dam-E-409",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 48,
+      "id": "dam-E-472",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 49,
+      "id": "dam-E-481",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 50,
+      "id": "dam-E-105",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 51,
+      "id": "dam-E-439",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 52,
+      "id": "dam-M-3",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 53,
+      "id": "dam-E-390",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 54,
+      "id": "dam-E-283",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 55,
+      "id": "dam-E-45",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 56,
+      "id": "dam-E-176",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 57,
+      "id": "dam-E-87",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 58,
+      "id": "dam-M-4",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 59,
+      "id": "dam-E-187",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 60,
+      "id": "dam-E-281",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 61,
+      "id": "dam-E-169",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 62,
+      "id": "dam-E-130",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 63,
+      "id": "dam-E-126",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 64,
+      "id": "dam-E-121",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 65,
+      "id": "dam-E-92",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 66,
+      "id": "dam-E-412",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 67,
+      "id": "dam-E-355",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 68,
+      "id": "dam-E-151",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 69,
+      "id": "dam-E-135",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 70,
+      "id": "dam-E-251",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 71,
+      "id": "dam-E-94",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 72,
+      "id": "dam-E-56",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 73,
+      "id": "dam-M-1",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 74,
+      "id": "dam-E-323",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 75,
+      "id": "dam-E-336",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 76,
+      "id": "dam-E-200",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 77,
+      "id": "dam-E-491",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 78,
+      "id": "dam-E-29",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 79,
+      "id": "dam-E-62",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 80,
+      "id": "dam-E-479",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 81,
+      "id": "dam-E-210",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 82,
+      "id": "dam-E-360",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 83,
+      "id": "dam-E-246",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 84,
+      "id": "dam-E-474",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 85,
+      "id": "dam-E-189",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 86,
+      "id": "dam-E-314",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 87,
+      "id": "dam-E-461",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 88,
+      "id": "dam-E-18",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 89,
+      "id": "dam-E-220",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 90,
+      "id": "dam-E-248",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 91,
+      "id": "dam-E-241",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 92,
+      "id": "dam-E-405",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 93,
+      "id": "dam-E-222",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 94,
+      "id": "dam-E-244",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 95,
+      "id": "dam-E-407",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 96,
+      "id": "dam-E-122",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 97,
+      "id": "dam-E-315",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 98,
+      "id": "dam-E-419",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 99,
+      "id": "dam-E-374",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 100,
+      "id": "dam-E-128",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 101,
+      "id": "dam-E-204",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 102,
+      "id": "dam-E-50",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 103,
+      "id": "dam-E-218",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 104,
+      "id": "dam-E-372",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 105,
+      "id": "dam-E-322",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 106,
+      "id": "dam-E-485",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 107,
+      "id": "dam-E-437",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 108,
+      "id": "dam-E-180",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 109,
+      "id": "dam-E-456",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 110,
+      "id": "dam-E-53",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 111,
+      "id": "dam-E-19",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 112,
+      "id": "dam-E-181",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 113,
+      "id": "dam-E-226",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 114,
+      "id": "dam-E-271",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 115,
+      "id": "dam-E-438",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 116,
+      "id": "dam-E-182",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 117,
+      "id": "dam-E-421",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 118,
+      "id": "dam-E-145",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 119,
+      "id": "dam-E-464",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 120,
+      "id": "dam-E-272",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 121,
+      "id": "dam-E-335",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 122,
+      "id": "dam-E-420",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 123,
+      "id": "dam-E-212",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 124,
+      "id": "dam-E-44",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 125,
+      "id": "dam-E-123",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 126,
+      "id": "dam-E-60",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 127,
+      "id": "dam-E-494",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 128,
+      "id": "dam-E-243",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 129,
+      "id": "dam-E-433",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 130,
+      "id": "dam-M-6",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 131,
+      "id": "dam-E-391",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 132,
+      "id": "dam-E-195",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 133,
+      "id": "dam-E-337",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 134,
+      "id": "dam-E-236",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 135,
+      "id": "dam-E-96",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 136,
+      "id": "dam-M-5",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 137,
+      "id": "dam-E-445",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 138,
+      "id": "dam-E-347",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 139,
+      "id": "dam-E-487",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 140,
+      "id": "dam-E-324",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 141,
+      "id": "dam-E-148",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 142,
+      "id": "dam-E-207",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 143,
+      "id": "dam-E-344",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 144,
+      "id": "dam-E-54",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 145,
+      "id": "dam-E-388",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 146,
+      "id": "dam-M-9",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 147,
+      "id": "dam-E-190",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 148,
+      "id": "dam-E-101",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 149,
+      "id": "dam-E-201",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 150,
+      "id": "dam-E-17",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 151,
+      "id": "dam-E-179",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 152,
+      "id": "dam-E-107",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 153,
+      "id": "dam-E-37",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 154,
+      "id": "dam-M-12",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 155,
+      "id": "dam-E-70",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 156,
+      "id": "dam-E-277",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 157,
+      "id": "dam-E-139",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 158,
+      "id": "dam-E-460",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 159,
+      "id": "dam-E-90",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 160,
+      "id": "dam-E-47",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 161,
+      "id": "dam-E-27",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 162,
+      "id": "dam-E-15",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 163,
+      "id": "dam-E-25",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 164,
+      "id": "dam-E-295",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 165,
+      "id": "dam-M-10",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 166,
+      "id": "dam-E-367",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 167,
+      "id": "dam-E-163",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 168,
+      "id": "dam-E-492",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 169,
+      "id": "dam-E-4",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 170,
+      "id": "dam-E-408",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 171,
+      "id": "dam-E-36",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 172,
+      "id": "dam-E-166",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 173,
+      "id": "dam-E-149",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 174,
+      "id": "dam-E-103",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 175,
+      "id": "dam-E-446",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 176,
+      "id": "dam-E-368",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 177,
+      "id": "dam-E-373",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 178,
+      "id": "dam-E-499",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 179,
+      "id": "dam-E-381",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 180,
+      "id": "dam-E-429",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 181,
+      "id": "dam-E-488",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 182,
+      "id": "dam-E-85",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 183,
+      "id": "dam-E-470",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 184,
+      "id": "dam-E-416",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 185,
+      "id": "dam-M-7",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 186,
+      "id": "dam-E-365",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 187,
+      "id": "dam-E-49",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 188,
+      "id": "dam-E-171",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 189,
+      "id": "dam-E-255",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 190,
+      "id": "dam-E-89",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 191,
+      "id": "dam-E-253",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 192,
+      "id": "dam-E-392",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 193,
+      "id": "dam-E-495",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 194,
+      "id": "dam-E-66",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 195,
+      "id": "dam-E-240",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 196,
+      "id": "dam-M-11",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 197,
+      "id": "dam-E-342",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 198,
+      "id": "dam-E-111",
+      "action": "exclude_ambiguous",
+      "note": "Incomplete/ambiguous annotation or connectivity at sheet resolution; exclude rather than guess."
+    },
+    {
+      "kind": "positive",
+      "index": 199,
+      "id": "dam-E-484",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 200,
+      "id": "dam-E-57",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 201,
+      "id": "dam-E-263",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 202,
+      "id": "dam-E-489",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 203,
+      "id": "dam-M-8",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 204,
+      "id": "dam-E-270",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    },
+    {
+      "kind": "positive",
+      "index": 205,
+      "id": "dam-E-98",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 206,
+      "id": "dam-E-125",
+      "action": "retain_upstream",
+      "note": "AI contact-sheet screen; source label retained; not a human/pixel-exhaustive certification."
+    },
+    {
+      "kind": "positive",
+      "index": 207,
+      "id": "dam-E-213",
+      "action": "merge_visible_connected_polygons",
+      "note": "One visually connected crack; source fragments united, not based on bbox overlap."
+    }
+  ]
+}

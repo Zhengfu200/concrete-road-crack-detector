@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-29T12:10:28.584182+00:00",
+  "rationale": "First stage reduced negative alarms 94 to4 but selected R88.17%; no joint P80/R90 operating point. Reduce negative sampling2x to1x and lr3e-4 to1e-4 to attempt recall recovery.",
+  "source_sha256": "58a3ec7b2c7b22fb54306c499ff2f3cece75e62db550b9dd94ca6f2d9c8e48e8",
+  "data_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "config_sha256": "5c59b1226b5a7b311b20934ebf5026092a512d9c730671721b58ccfea9b7c062",
+  "epochs": 6,
+  "seed": 42,
+  "prior_experiment": {
+    "threshold": 0.29502448439598083,
+    "mixed": {
+      "tp": 149,
+      "fp": 14,
+      "fn": 20,
+      "precision": 0.9141104294478528,
+      "recall": 0.8816568047337278,
+      "f1": 0.8975903614457832
+    },
+    "positive_only": {
+      "tp": 149,
+      "fp": 10,
+      "fn": 20,
+      "precision": 0.9371069182389937,
+      "recall": 0.8816568047337278,
+      "f1": 0.9085365853658537
+    },
+    "background_images": 95,
+    "background_false_alarm_images": 4,
+    "background_false_boxes": 4
+  },
+  "selection": "Same fixed mixed val and same DeploymentSelection policy; no test evaluation.",
+  "promotion_rule": "Candidate mixed-val P>=.80 and R>=.90 at calibrated threshold; original 164 positive-val R>=.90 at same threshold; fewer negative-image FPs than baseline at its existing deployment threshold. Report also equal-recall comparison. If gates fail keep existing preview.",
+  "scope": "Conditional development iteration; stage1 val already observed; no independent acceptance claim. Combined source/sampling/lr change is not isolated causal evidence.",
+  "formal_acceptance": false
+}

@@ -1,0 +1,131 @@
+{
+  "status": "trained_unvalidated",
+  "purpose": "user_labeled",
+  "classes": {
+    "0": "crack"
+  },
+  "created_at": "2026-10-29T12:10:33.585586+00:00",
+  "data_directory": "PROJECT_ROOT\\data\\prepared\\crack-road-expanded-20261029",
+  "provenance_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "environment": {
+    "torch": "2.12.1+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU",
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ],
+    "backward_pass": true,
+    "created_at": "2026-10-29T12:10:33.510860+00:00"
+  },
+  "training_args": {
+    "imgsz": 960,
+    "epochs": 6,
+    "patience": 6,
+    "batch": 8,
+    "seed": 42,
+    "workers": 0,
+    "device": "0",
+    "amp": true,
+    "optimizer": "SGD",
+    "lr0": 0.0001,
+    "lrf": 0.2,
+    "momentum": 0.9,
+    "weight_decay": 0.0001,
+    "warmup_epochs": 0.5,
+    "warmup_bias_lr": 0.0,
+    "nbs": 64,
+    "freeze": 23,
+    "close_mosaic": 0,
+    "mosaic": 0.0,
+    "mixup": 0.0,
+    "degrees": 0.0,
+    "translate": 0.0,
+    "scale": 0.0,
+    "hsv_h": 0.0,
+    "hsv_s": 0.0,
+    "hsv_v": 0.0,
+    "fliplr": 0.5,
+    "flipud": 0.5,
+    "plots": true,
+    "save": true,
+    "data": "PROJECT_ROOT\\data\\prepared\\crack-road-expanded-20261029\\data.yaml",
+    "project": "PROJECT_ROOT\\runs",
+    "name": "concrete-crack-road-recovery-20261029",
+    "exist_ok": false
+  },
+  "attempts": [],
+  "initial_weights": "PROJECT_ROOT\\runs\\concrete-crack-road-expanded-20261029\\weights\\best_deployment.pt",
+  "initial_weights_sha256": "58a3ec7b2c7b22fb54306c499ff2f3cece75e62db550b9dd94ca6f2d9c8e48e8",
+  "config_path": "PROJECT_ROOT\\configs\\road-recovery-20261029.yaml",
+  "config_sha256": "5c59b1226b5a7b311b20934ebf5026092a512d9c730671721b58ccfea9b7c062",
+  "trainer_class": "__main__.RoadRecoveryTrainer",
+  "sampling_configuration_sha256": "1b14d7c1d81b4e9142b37053e9ff4f8b24ece56833b766b900f5a131034ee644",
+  "training_preprocessing": {
+    "version": "letterbox-border-v1",
+    "content_size": 960,
+    "input_size": 992,
+    "border": 16,
+    "stride": 32,
+    "color": [
+      114,
+      114,
+      114
+    ],
+    "resize": "opencv-linear-ceil",
+    "preserve_aspect_ratio": true,
+    "center": true,
+    "end2end": true,
+    "max_det": 300
+  },
+  "weights_sha256": "3e6541ebb2b1d32a19fb1e0146ea27921e6561c1a193883ca9b25e07faf5c9a4",
+  "selected_epoch": 3,
+  "selection_split": "val",
+  "selection_calibration": {
+    "joint_target_feasible": true,
+    "selection_policy": "joint_precision80_recall90",
+    "selected": {
+      "threshold": 0.18819282948970795,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 26,
+          "fn": 16,
+          "precision": 0.8547486033519553,
+          "recall": 0.9053254437869822,
+          "f1": 0.8793103448275863
+        }
+      }
+    },
+    "recall_at_precision80": {
+      "threshold": 0.18819282948970795,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 26,
+          "fn": 16,
+          "precision": 0.8547486033519553,
+          "recall": 0.9053254437869822,
+          "f1": 0.8793103448275863
+        }
+      }
+    },
+    "precision_at_recall90": {
+      "threshold": 0.18819282948970795,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 26,
+          "fn": 16,
+          "precision": 0.8547486033519553,
+          "recall": 0.9053254437869822,
+          "f1": 0.8793103448275863
+        }
+      }
+    }
+  }
+}

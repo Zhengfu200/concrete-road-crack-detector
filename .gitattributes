@@ -1,0 +1,9 @@
+* text=auto
+*.pt binary
+*.pptx binary
+/common.py -text
+/preprocessing.py -text
+/inference.py -text
+/run_frozen_video.py -text
+/runs/**/weights/*.release.json -text
+/reports/data-expansion-20261029/recovery/candidate-val/val.thresholds.json -text

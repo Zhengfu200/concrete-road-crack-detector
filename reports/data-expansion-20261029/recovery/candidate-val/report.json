@@ -1,0 +1,125 @@
+{
+  "created_at": "2026-10-29T12:17:43.090699+00:00",
+  "split": "val",
+  "smoke_only": false,
+  "thresholds": {
+    "0": 0.18819282948970795
+  },
+  "operating_point_iou": 0.5,
+  "metrics": {
+    "per_class": {
+      "0": {
+        "tp": 153,
+        "fp": 26,
+        "fn": 16,
+        "precision": 0.8547486033519553,
+        "recall": 0.9053254437869822,
+        "f1": 0.8793103448275863
+      }
+    },
+    "scenarios": {
+      "crack": 164,
+      "background": 95
+    }
+  },
+  "average_precision": {
+    "0": {
+      "map50": 0.8932692528012864,
+      "map50_95": 0.640913975532908
+    }
+  },
+  "confusion_true_rows_pred_columns": [
+    [
+      153,
+      16
+    ],
+    [
+      26,
+      0
+    ]
+  ],
+  "confusion_classes": [
+    "crack",
+    "background"
+  ],
+  "checks": {
+    "crack_recall_ge_90": true,
+    "crack_precision_ge_80": true,
+    "crack_and_background_present": true,
+    "formal_data_ready": true,
+    "concrete_domain_reviewed": false
+  },
+  "accepted": false,
+  "weights_sha256": "3e6541ebb2b1d32a19fb1e0146ea27921e6561c1a193883ca9b25e07faf5c9a4",
+  "provenance_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "imgsz": 960,
+  "reference_evaluation": false,
+  "training_provenance_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "evaluation_provenance_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "preprocessing": {
+    "version": "letterbox-border-nms-v1",
+    "content_size": 960,
+    "input_size": 992,
+    "border": 16,
+    "stride": 32,
+    "color": [
+      114,
+      114,
+      114
+    ],
+    "resize": "opencv-linear-ceil",
+    "preserve_aspect_ratio": true,
+    "center": true,
+    "end2end": true,
+    "max_det": 300,
+    "postprocess": {
+      "type": "greedy_class_nms",
+      "iou": 0.3
+    }
+  },
+  "prediction_min_conf": 0.001,
+  "calibration": {
+    "joint_target_feasible": true,
+    "selection_policy": "joint_precision80_recall90",
+    "selected": {
+      "threshold": 0.18819282948970795,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 26,
+          "fn": 16,
+          "precision": 0.8547486033519553,
+          "recall": 0.9053254437869822,
+          "f1": 0.8793103448275863
+        }
+      }
+    },
+    "recall_at_precision80": {
+      "threshold": 0.18819282948970795,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 26,
+          "fn": 16,
+          "precision": 0.8547486033519553,
+          "recall": 0.9053254437869822,
+          "f1": 0.8793103448275863
+        }
+      }
+    },
+    "precision_at_recall90": {
+      "threshold": 0.18819282948970795,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 26,
+          "fn": 16,
+          "precision": 0.8547486033519553,
+          "recall": 0.9053254437869822,
+          "f1": 0.8793103448275863
+        }
+      }
+    }
+  },
+  "ap_backend": "Ultralytics DetectionValidator matching + DetMetrics; shared predictions"
+}

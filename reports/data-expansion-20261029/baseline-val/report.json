@@ -1,0 +1,125 @@
+{
+  "created_at": "2026-10-29T11:52:29.523692+00:00",
+  "split": "val",
+  "smoke_only": false,
+  "thresholds": {
+    "0": 0.20803308486938477
+  },
+  "operating_point_iou": 0.5,
+  "metrics": {
+    "per_class": {
+      "0": {
+        "tp": 150,
+        "fp": 106,
+        "fn": 19,
+        "precision": 0.5859375,
+        "recall": 0.8875739644970414,
+        "f1": 0.7058823529411764
+      }
+    },
+    "scenarios": {
+      "crack": 164,
+      "background": 95
+    }
+  },
+  "average_precision": {
+    "0": {
+      "map50": 0.6103049003661075,
+      "map50_95": 0.4123665210055799
+    }
+  },
+  "confusion_true_rows_pred_columns": [
+    [
+      150,
+      19
+    ],
+    [
+      106,
+      0
+    ]
+  ],
+  "confusion_classes": [
+    "crack",
+    "background"
+  ],
+  "checks": {
+    "crack_recall_ge_90": false,
+    "crack_precision_ge_80": false,
+    "crack_and_background_present": true,
+    "formal_data_ready": true,
+    "concrete_domain_reviewed": false
+  },
+  "accepted": false,
+  "weights_sha256": "46a50d74d5238981a183a1bb87ae2a2eb04bce9eead10150c7b379e61843f913",
+  "provenance_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "imgsz": 960,
+  "reference_evaluation": true,
+  "training_provenance_sha256": "6d87b95f8770ca10c3eae03efd4a65339a33fb7eb307c3b31efcd09054304fcb",
+  "evaluation_provenance_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "preprocessing": {
+    "version": "letterbox-border-nms-v1",
+    "content_size": 960,
+    "input_size": 992,
+    "border": 16,
+    "stride": 32,
+    "color": [
+      114,
+      114,
+      114
+    ],
+    "resize": "opencv-linear-ceil",
+    "preserve_aspect_ratio": true,
+    "center": true,
+    "end2end": true,
+    "max_det": 300,
+    "postprocess": {
+      "type": "greedy_class_nms",
+      "iou": 0.3
+    }
+  },
+  "prediction_min_conf": 0.001,
+  "calibration": {
+    "joint_target_feasible": false,
+    "selection_policy": "preview_max_f1_no_feasible_threshold",
+    "selected": {
+      "threshold": 0.20803308486938477,
+      "metrics": {
+        "0": {
+          "tp": 150,
+          "fp": 106,
+          "fn": 19,
+          "precision": 0.5859375,
+          "recall": 0.8875739644970414,
+          "f1": 0.7058823529411764
+        }
+      }
+    },
+    "recall_at_precision80": {
+      "threshold": 0.8890560269355774,
+      "metrics": {
+        "0": {
+          "tp": 25,
+          "fp": 6,
+          "fn": 144,
+          "precision": 0.8064516129032258,
+          "recall": 0.14792899408284024,
+          "f1": 0.25
+        }
+      }
+    },
+    "precision_at_recall90": {
+      "threshold": 0.10565027594566345,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 117,
+          "fn": 16,
+          "precision": 0.5666666666666667,
+          "recall": 0.9053254437869822,
+          "f1": 0.6970387243735762
+        }
+      }
+    }
+  },
+  "ap_backend": "Ultralytics DetectionValidator matching + DetMetrics; shared predictions"
+}

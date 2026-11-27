@@ -1,0 +1,160 @@
+{
+  "baseline": {
+    "weights": "PROJECT_ROOT\\runs\\concrete-crack-connected-v2-head-20261027\\weights\\best_deployment.pt",
+    "weights_sha256": "46a50d74d5238981a183a1bb87ae2a2eb04bce9eead10150c7b379e61843f913",
+    "selected_epoch": 2,
+    "at_selected": {
+      "threshold": 0.20803308486938477,
+      "mixed": {
+        "tp": 150,
+        "fp": 106,
+        "fn": 19,
+        "precision": 0.5859375,
+        "recall": 0.8875739644970414,
+        "f1": 0.7058823529411764
+      },
+      "positive_only": {
+        "tp": 150,
+        "fp": 18,
+        "fn": 19,
+        "precision": 0.8928571428571429,
+        "recall": 0.8875739644970414,
+        "f1": 0.8902077151335311
+      },
+      "background_images": 95,
+      "background_false_alarm_images": 88,
+      "background_false_boxes": 88
+    },
+    "average_precision": {
+      "0": {
+        "map50": 0.6103049003661075,
+        "map50_95": 0.4123665210055799
+      }
+    },
+    "joint_target_feasible": false,
+    "at_existing_deployment": {
+      "threshold": 0.03675317019224167,
+      "mixed": {
+        "tp": 156,
+        "fp": 151,
+        "fn": 13,
+        "precision": 0.50814332247557,
+        "recall": 0.9230769230769231,
+        "f1": 0.6554621848739496
+      },
+      "positive_only": {
+        "tp": 156,
+        "fp": 38,
+        "fn": 13,
+        "precision": 0.8041237113402062,
+        "recall": 0.9230769230769231,
+        "f1": 0.859504132231405
+      },
+      "background_images": 95,
+      "background_false_alarm_images": 94,
+      "background_false_boxes": 113
+    },
+    "at_recall90": {
+      "threshold": 0.10565027594566345,
+      "mixed": {
+        "tp": 153,
+        "fp": 117,
+        "fn": 16,
+        "precision": 0.5666666666666667,
+        "recall": 0.9053254437869822,
+        "f1": 0.6970387243735762
+      },
+      "positive_only": {
+        "tp": 153,
+        "fp": 23,
+        "fn": 16,
+        "precision": 0.8693181818181818,
+        "recall": 0.9053254437869822,
+        "f1": 0.8869565217391304
+      },
+      "background_images": 95,
+      "background_false_alarm_images": 92,
+      "background_false_boxes": 94
+    },
+    "video": {
+      "frames": 24,
+      "threshold": 0.03675317019224167,
+      "alarm_frames": 24,
+      "large_at_deployment": 15,
+      "large_conf_ge_05": 13
+    }
+  },
+  "candidate": {
+    "weights": "PROJECT_ROOT\\runs\\concrete-crack-road-expanded-20261029\\weights\\best_deployment.pt",
+    "weights_sha256": "58a3ec7b2c7b22fb54306c499ff2f3cece75e62db550b9dd94ca6f2d9c8e48e8",
+    "selected_epoch": 6,
+    "at_selected": {
+      "threshold": 0.29502448439598083,
+      "mixed": {
+        "tp": 149,
+        "fp": 14,
+        "fn": 20,
+        "precision": 0.9141104294478528,
+        "recall": 0.8816568047337278,
+        "f1": 0.8975903614457832
+      },
+      "positive_only": {
+        "tp": 149,
+        "fp": 10,
+        "fn": 20,
+        "precision": 0.9371069182389937,
+        "recall": 0.8816568047337278,
+        "f1": 0.9085365853658537
+      },
+      "background_images": 95,
+      "background_false_alarm_images": 4,
+      "background_false_boxes": 4
+    },
+    "average_precision": {
+      "0": {
+        "map50": 0.8899152972637883,
+        "map50_95": 0.639001267625874
+      }
+    },
+    "joint_target_feasible": false,
+    "at_recall90": {
+      "threshold": 0.04052625596523285,
+      "mixed": {
+        "tp": 153,
+        "fp": 67,
+        "fn": 16,
+        "precision": 0.6954545454545454,
+        "recall": 0.9053254437869822,
+        "f1": 0.7866323907455013
+      },
+      "positive_only": {
+        "tp": 153,
+        "fp": 35,
+        "fn": 16,
+        "precision": 0.8138297872340425,
+        "recall": 0.9053254437869822,
+        "f1": 0.8571428571428571
+      },
+      "background_images": 95,
+      "background_false_alarm_images": 30,
+      "background_false_boxes": 32
+    },
+    "video": {
+      "frames": 24,
+      "threshold": 0.29502448439598083,
+      "alarm_frames": 9,
+      "large_at_deployment": 1,
+      "large_conf_ge_05": 1
+    }
+  },
+  "at": "2026-10-29T12:05:49.952820+00:00",
+  "promotion_gates": {
+    "mixed_precision80": true,
+    "mixed_recall90": false,
+    "positive_recall90": false,
+    "background_false_boxes_reduced": true
+  },
+  "promotion_eligible": false,
+  "formal_acceptance": false,
+  "video_note": "Unlabelled development diagnosis; large predicted area is not automatically a false positive, and reduced detections alone do not establish recall or precision."
+}

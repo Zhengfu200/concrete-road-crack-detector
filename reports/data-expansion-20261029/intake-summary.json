@@ -1,0 +1,46 @@
+{
+  "at": "2026-10-29T11:51:59.689109+00:00",
+  "dataset": "PROJECT_ROOT\\data\\prepared\\crack-road-expanded-20261029",
+  "stats": {
+    "train": {
+      "images": 3694,
+      "crack": 3262,
+      "background": 432
+    },
+    "val": {
+      "images": 259,
+      "crack": 164,
+      "background": 95
+    },
+    "test": {
+      "images": 89,
+      "crack": 89,
+      "background": 0
+    }
+  },
+  "added_positive": 189,
+  "added_negative": 527,
+  "negative_excluded": 73,
+  "positive_excluded": 19,
+  "connected_merges": 43,
+  "exact_and_near_exclusions": [
+    {
+      "source": "Damage Segmentaion/Easy/Images/E (292).jpg",
+      "reason": "sha_or_phash_distance_le_6",
+      "matches": [
+        [
+          "dam-E-499",
+          "train"
+        ]
+      ]
+    }
+  ],
+  "provenance_sha256": "6fd063277de9fe9f9b477bc3ca07619502d6aa416429f6c916ee55c748d54a50",
+  "limitations": [
+    "AI sheet screening is not human ground-truth certification",
+    "SDNET groups are filename-prefix proxies, not confirmed capture metadata",
+    "DamSegment is concrete dam, train only; not proof of road-domain accuracy",
+    "Old V2 test retained unchanged but will not be evaluated in this experiment",
+    "pHash<=6 screen does not rule out partial crops or all visual overlap"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "status": "evaluation_failed",
+  "purpose": "user_labeled",
+  "classes": {
+    "0": "crack"
+  },
+  "created_at": "2026-10-27T08:03:59.039332+00:00",
+  "data_directory": "PROJECT_ROOT\\data\\prepared\\crack-connected-v2",
+  "provenance_sha256": "6d87b95f8770ca10c3eae03efd4a65339a33fb7eb307c3b31efcd09054304fcb",
+  "environment": {
+    "torch": "2.12.1+cu130",
+    "cuda": "13.0",
+    "gpu": "NVIDIA GeForce RTX 5080 Laptop GPU",
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ],
+    "backward_pass": true,
+    "created_at": "2026-10-27T08:03:58.972294+00:00"
+  },
+  "training_args": {
+    "imgsz": 960,
+    "epochs": 6,
+    "patience": 6,
+    "batch": 8,
+    "seed": 42,
+    "workers": 0,
+    "device": "0",
+    "amp": true,
+    "optimizer": "SGD",
+    "lr0": 0.0003,
+    "lrf": 0.2,
+    "momentum": 0.9,
+    "weight_decay": 0.0001,
+    "warmup_epochs": 0.5,
+    "warmup_bias_lr": 0.0,
+    "nbs": 64,
+    "freeze": 23,
+    "close_mosaic": 0,
+    "mosaic": 0.0,
+    "mixup": 0.0,
+    "degrees": 0.0,
+    "translate": 0.0,
+    "scale": 0.0,
+    "hsv_h": 0.0,
+    "hsv_s": 0.0,
+    "hsv_v": 0.0,
+    "fliplr": 0.5,
+    "flipud": 0.5,
+    "plots": true,
+    "save": true,
+    "data": "PROJECT_ROOT\\data\\prepared\\crack-connected-v2\\data.yaml",
+    "project": "PROJECT_ROOT\\runs",
+    "name": "concrete-crack-connected-v2-head-20261027",
+    "exist_ok": false
+  },
+  "attempts": [],
+  "initial_weights": "PROJECT_ROOT\\runs\\concrete-crack-20261021-212347\\weights\\best.pt",
+  "initial_weights_sha256": "a2da3462da1fa90216ae56e6d3847c5a39b9a7f1e16da2618822407ad10bf096",
+  "config_path": "PROJECT_ROOT\\configs\\connected-v2-head-20261027.yaml",
+  "config_sha256": "8ed435865ff5b2a730aa8147f120d07d372e6ca3ab7afd71580558257826fa1f",
+  "trainer_class": "__main__.HeadTrainer",
+  "training_preprocessing": {
+    "version": "letterbox-border-v1",
+    "content_size": 960,
+    "input_size": 992,
+    "border": 16,
+    "stride": 32,
+    "color": [
+      114,
+      114,
+      114
+    ],
+    "resize": "opencv-linear-ceil",
+    "preserve_aspect_ratio": true,
+    "center": true,
+    "end2end": true,
+    "max_det": 300
+  },
+  "weights_sha256": "46a50d74d5238981a183a1bb87ae2a2eb04bce9eead10150c7b379e61843f913",
+  "selected_epoch": 2,
+  "selection_split": "val",
+  "selection_calibration": {
+    "joint_target_feasible": true,
+    "selection_policy": "joint_precision80_recall90",
+    "selected": {
+      "threshold": 0.03675317019224167,
+      "metrics": {
+        "0": {
+          "tp": 156,
+          "fp": 38,
+          "fn": 13,
+          "precision": 0.8041237113402062,
+          "recall": 0.9230769230769231,
+          "f1": 0.859504132231405
+        }
+      }
+    },
+    "recall_at_precision80": {
+      "threshold": 0.03675317019224167,
+      "metrics": {
+        "0": {
+          "tp": 156,
+          "fp": 38,
+          "fn": 13,
+          "precision": 0.8041237113402062,
+          "recall": 0.9230769230769231,
+          "f1": 0.859504132231405
+        }
+      }
+    },
+    "precision_at_recall90": {
+      "threshold": 0.10565027594566345,
+      "metrics": {
+        "0": {
+          "tp": 153,
+          "fp": 23,
+          "fn": 16,
+          "precision": 0.8693181818181818,
+          "recall": 0.9053254437869822,
+          "f1": 0.8869565217391304
+        }
+      }
+    }
+  },
+  "evaluation_report": "PROJECT_ROOT\\reports\\optimization-20261027\\head-single\\test\\report.json",
+  "thresholds_path": "PROJECT_ROOT\\reports\\optimization-20261027\\head-single\\val\\val.thresholds.json",
+  "evaluation_at": "2026-10-27T08:11:20.150012+00:00",
+  "evaluated_imgsz": 960,
+  "evaluated_preprocessing": {
+    "version": "letterbox-border-nms-v1",
+    "content_size": 960,
+    "input_size": 992,
+    "border": 16,
+    "stride": 32,
+    "color": [
+      114,
+      114,
+      114
+    ],
+    "resize": "opencv-linear-ceil",
+    "preserve_aspect_ratio": true,
+    "center": true,
+    "end2end": true,
+    "max_det": 300,
+    "postprocess": {
+      "type": "greedy_class_nms",
+      "iou": 0.3
+    }
+  }
+}
